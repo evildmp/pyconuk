@@ -3,6 +3,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1 class="display-3">{% page_attribute "page_title" %}</h1>
-        <p class="lead">{% page_attribute "meta_description" %}</p>
+        {% page_attribute "meta_description" as meta_description %}
+        {% if meta_description %}<p class="lead">{{ meta_description }}</p>{% endif %}
     </div>
 </div>
