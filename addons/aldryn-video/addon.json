@@ -1,0 +1,6 @@
+{
+    "installed-apps": [
+        "aldryn_video"
+    ], 
+    "package-name": "aldryn-video"
+}
