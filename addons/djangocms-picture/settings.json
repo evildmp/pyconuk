@@ -1,6 +1,8 @@
 {
-    "alignment": null,
+    "alignment": "",
     "nesting": false,
-    "ratio": null,
-    "templates": null
+    "ratio": "",
+    "responsive_images": false,
+    "responsive_images_viewport_breakpoints": "",
+    "templates": ""
 }
