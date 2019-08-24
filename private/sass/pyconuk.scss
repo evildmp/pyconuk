@@ -373,8 +373,8 @@ div.card-body {background: white; border-radius: 0 0 .25rem .25rem;}
 
 div.card.bg-primary .card-header, div.card.bg-danger .card-header {color: white;}
 
-div.card.no-padding .card-body .card {margin: 0; border: 0;}
-div.card.no-padding .card-body .card .card-body {padding: 0;}
+div.card.no-padding {margin: 0; border: 0;}
+div.card.no-padding .card-body {padding: 0;}
 
 div.card h2,
 div.card h3,
